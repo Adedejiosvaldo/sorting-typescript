@@ -1,3 +1,2 @@
 "use strict";
-console.log("Hello world");
-console.log("God");
+const hell = "Hello";
